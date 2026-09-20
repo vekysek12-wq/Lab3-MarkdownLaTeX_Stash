@@ -1,0 +1,15 @@
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\bin\Debug\net10.0\FormatDemoApp.exe
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\bin\Debug\net10.0\FormatDemoApp.deps.json
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\bin\Debug\net10.0\FormatDemoApp.runtimeconfig.json
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\bin\Debug\net10.0\FormatDemoApp.dll
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\bin\Debug\net10.0\FormatDemoApp.pdb
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\obj\Debug\net10.0\FormatDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\obj\Debug\net10.0\FormatDemoApp.AssemblyInfoInputs.cache
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\obj\Debug\net10.0\FormatDemoApp.AssemblyInfo.cs
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\obj\Debug\net10.0\FormatDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\obj\Debug\net10.0\FormatDemoApp.sourcelink.json
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\obj\Debug\net10.0\FormatDemoApp.dll
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\obj\Debug\net10.0\refint\FormatDemoApp.dll
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\obj\Debug\net10.0\FormatDemoApp.pdb
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\obj\Debug\net10.0\FormatDemoApp.genruntimeconfig.cache
+C:\Users\vekys\Documents\Lab3_MarkdownLaTeX_Stash\FormatDemoApp\obj\Debug\net10.0\ref\FormatDemoApp.dll
